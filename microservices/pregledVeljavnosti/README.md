@@ -8,8 +8,8 @@ Storitev omogoča pregledovanje veljavnosti e-vinjet.
 # Zahteve
 | Funkcionalne | Ne funkcionalne |
 | ------------ | --------------- |
-| Ogled cen glede na kategorijo | Pošiljanje obvestila o uspešnosti |
-| Ogled cen glede na veljavnost | Uporabnik preusmerjen na prvo stran |
-| Ogled cen glede na veljavnost in kategorijo | Brisanje podatkov o seji |
+| Pregled veljavnosti glede na registracijsko številko | Pošiljanje obvestila o veljavnosti/neveljavnosti |
+| Pregled poteklosti E-vinjete glede na izbran dan | Izpisana .csv datoteka vseh poteklih |
+| Pregled poteklosti E-vinjete za posamezne kategorije glede na izbran dan| Čas za izvedbo storitve maksimalno 1 sekunda |
 
 
