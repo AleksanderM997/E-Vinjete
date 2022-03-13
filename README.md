@@ -7,6 +7,6 @@ E-vinjeta je vezana na registrsko označbo vozila. Ob nakupu morate zato navesti
 # Glavne dejavnosti
 | Mikrostoritve |
 | ------------- |
-| [Ogled cene glede na kategorijo in veljavnost](https://github.com/AleksanderM997/E-Vinjete/tree/main/microservices/ogledCen)|
+| [Pregled veljavnosti E-vinjete](https://github.com/AleksanderM997/E-Vinjete/tree/main/microservices/pregledVeljavnosti)|
 | [Registracija uporabnika](https://github.com/AleksanderM997/E-Vinjete/tree/main/microservices/registracijaUporabnika) |
 | [Registracija vinjete](https://github.com/AleksanderM997/E-Vinjete/tree/main/microservices/registracijaVinjete) |
